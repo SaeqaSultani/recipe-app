@@ -52,7 +52,6 @@
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -127,7 +126,6 @@ rails db:seed RAILS_ENV=test
 ```sh
   rspec spec/
 ```
-
 ### or :
 ```
 rspec spec/models
@@ -154,7 +152,6 @@ rspec spec/views
 - GitHub: [SaeqaSultani](https://github.com/SaeqaSultani)
 - Twitter: [SaeqaSultani](https://twitter.com/SaeqaSultani)
 - LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani)
-
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
